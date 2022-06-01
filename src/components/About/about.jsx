@@ -40,8 +40,15 @@ const about = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus fuga amet sapiente itaque 
-            doloremque ratione praesentium, voluptatum provident enim aliquam iste, sint dicta. Officiis beatae quaerat aperiam blanditiis repudiandae laboriosam.
+            I'm a talented, ambitious and self-motivated frontend developer
+            and UI designer with a solid technical background and useful skills
+            ranging from self-discipline, teamwork and the ability to work with
+            minimum supervision.
+          </p>
+          <p>
+            I'm capable  of playing a key frontend role with intermediate knowledge of 
+            core frontend technologies, libraries and frameworks. I deliver pixel-perfect 
+            UI while ensuring maximum accessibilty, user-friendliness and usability.
           </p>
 
           <a href="https://github.com/mimalson/meenahfolio/" className='btn btn-primary'>Let's Talk</a>
