@@ -30,18 +30,21 @@ const contact = () => {
       
         <div className="contact__options">
           <article className="contact__option">
+            <a href="mailto:muhaminat01@gmail.com">
             <MdOutlineEmail className='contact__option-icon' />
-            <a href="mailto:muhaminat01@gmail.com"></a>
+            </a>
           </article>
 
           <article className="contact__option">
+            <a href="https://twitter.com/simply_meenat" target='_blank' rel="noreferrer" >
             <FaTwitter className='contact__option-icon'/>
-            <a href="https://twitter.com/simply_meenat" target='_blank' rel="noreferrer" ></a>
+            </a>
           </article>
 
           <article className="contact__option">
+            <a href="http://api.whatsapp.com/send?phone+2348142974615" target='_blank' rel="noreferrer">
             <BsWhatsapp className='contact__option-icon'/>
-            <a href="http://api.whatsapp.com/send?phone+2348142974615" target='_blank' rel="noreferrer"></a>
+            </a>
           </article>
         </div>
       </div>
