@@ -21,6 +21,12 @@
     transition: var(--transition);
 }
 
+.sold{
+    padding: 2rem;
+    color: var(--color-light);
+    text-align: center;
+}
+
 .contact__option:hover{
     background: transparent;
     border-color: var(--color-white);
@@ -58,7 +64,6 @@ textarea{
 /* Media Query Medium Devices */
 @media  screen and (max-width: 1024px){
    .container.contact__container{
-       grid-template-columns: 1fr;
        gap: 2rem;
    }
 }

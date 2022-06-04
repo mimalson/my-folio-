@@ -20,11 +20,11 @@
 .skills{
     align-items: center;
     justify-content: center;
-    
+    color: var(--color-light);
 }
 
 .dotjs{
-    color: var(--color-primary);
+    color: var(--color-white);
     min-width: 100%;
 }
 .experience__details{

@@ -19,8 +19,8 @@ const experience = () => {
                   <span className='dotjs'> HTML/CSS/JS[ES4+], ReactJS, NextJS, Boostrap, 
                    Styed component...
                  </span>
-                </h4>
-                <h4>and some other dot JS libraries.</h4>
+                </h4 >
+                <h4 className='skills'>and some other dot JS libraries.</h4>
               </div>
             </article>
           </div>

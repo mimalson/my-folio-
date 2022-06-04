@@ -23,10 +23,10 @@ const contact = () => {
 
       <div className="container contact__container">
         
-      <h4> I'm currently looking for new opportunities, 
+      <p className='sold'> I'm currently looking for new opportunities, 
         so my inbox is always open. Have a question or you 
         just want to say hi? feel free to reach out to me
-      </h4>
+      </p>
       
         <div className="contact__options">
           <article className="contact__option">
